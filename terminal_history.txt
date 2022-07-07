@@ -1,0 +1,43 @@
+
+ 1019  conda activate dev
+ 1020  git clone git@github.com:JakeWheelerGitHub/Week_4_Challenge.git
+ 1021  conda activate dev
+ 1022  git init
+ 1023  git add .
+ 1024  cd
+ 1025  pwd
+ 1026  cd Fintech
+ 1027  cd Challenges
+ 1028  cd Week_4_Challenge
+ 1029  pwd
+ 1030  git init
+ 1031  git add .
+ 1032  git commit -m "Import the Data complete"
+ 1033  git status
+ 1034  git push
+ 1035  pwd
+ 1036  git init
+ 1037  git add
+ 1038  git add .
+ 1039  git commit -m "Analyze the Volatility complete"
+ 1040  git push
+ 1041  pwd
+ 1042  git init
+ 1043  git add .
+ 1044  git status
+ 1045  git commit -m "Analyze the Risk complete"
+ 1046  git push
+ 1047  pwd
+ 1048  git init
+ 1049  git add .
+ 1050  git commit -m " Analyze the Risk-Return Profile complete"\n
+ 1051  git push
+ 1052  git init
+ 1053  git add .
+ 1054  git commit -m "Coding complete"
+ 1055  git push
+ 1056  git init
+ 1057  git add .
+ 1058  git commit -m "Final formatting and commenting"
+ 1059  git push
+ 1060  20 terminal history
